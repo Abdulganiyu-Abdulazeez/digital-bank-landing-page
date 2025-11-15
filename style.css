@@ -72,14 +72,15 @@ li:hover {
         height: fit-content;
         position: absolute;
         flex-direction: column;
-        background-color: black;
+        background-color: white;
         align-items: start;
         justify-content: start;
         top: 4rem;
-        left: 0;
+        left: 0;    
         padding: 1rem;
         gap: 1rem;
         transition: all 1s ease-in-out;
+        color: black;
     }li {
         display: block;
         width: 100%;
